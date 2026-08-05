@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="estilo.css">
+    <div class="btn-group">
+  <a href="perplexity.html" class="btn btn-primary active" aria-current="page">Perplexity</a>
+  <a href="pixelcut.html" class="btn btn-primary">Pixelcut</a>
+  <a href="notebook LM.html" class="btn btn-primary">NotebookLM</a>
+  
+</div>
+</head>
+<body>
+    <header>
+        <h1>La historia de la IA</h1>
+        <nav>
+            <a href="#alan">alan turing</a>
+
+        </nav>
+    </header>
+    <div class="header">
+        <h1>Línea del Tiempo: Historia de la IA</h1>
+        <p>Resumen cronológico de los hitos y etapas clave en el desarrollo de la Inteligencia Artificial</p>
+    </div>
+
+    <table >
+        <thead>
+            <tr>
+                <th>Período</th>
+                <th>Etapa / Hito</th>
+                <th>Descripción e Hitos Clave</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="period">1936 - 1950</td>
+                <td class="stage">Los cimientos teóricos y Alan Turing</td>
+                <td class="description">Alan Turing propone la Máquina de Turing (1936), sentando las bases matemáticas de la computación. En 1950 publica "Computing Machinery and Intelligence", planteando si las máquinas pueden pensar y diseñando el Test de Turing.</td>
+            </tr>
+            <tr>
+                <td class="period">1956</td>
+                <td class="stage">Nacimiento formal de la IA</td>
+                <td class="description">En la Conferencia de Dartmouth, John McCarthy, Marvin Minsky, Nathaniel Rochester y Claude Shannon acuña formalmente el término "Inteligencia Artificial", bajo la premisa de que el aprendizaje humano puede ser simulado.</td>
+            </tr>
+            <tr>
+                <td class="period">1956 - 1974</td>
+                <td class="stage">La primera era dorada</td>
+                <td class="description">Periodo de gran optimismo. Frank Rosenblatt crea el Perceptrón (1958), antecedente de las redes neuronales. Nacen chatbots emblemáticos como ELIZA (1966) para simular conversaciones terapéuticas.</td>
+            </tr>
+            <tr>
+                <td class="period">1974 - 1980</td>
+                <td class="stage">El primer Invierno de la IA</td>
+                <td class="description">Las expectativas superan las capacidades tecnológicas del momento. Limitaciones de cómputo e informes críticos (como el Lighthill Report) provocan el corte masivo de presupuestos e inversión.</td>
+            </tr>
+            <tr>
+                <td class="period">1980 - 1987</td>
+                <td class="stage">Sistemas Expertos y la Resurrección</td>
+                <td class="description">La IA renace impulsada por los Sistemas Expertos (programas basados en reglas para medicina o prospección petrolera) y la popularización del algoritmo de retropropagación (backpropagation).</td>
+            </tr>
+            <tr>
+                <td class="period">1987 - 1993</td>
+                <td class="stage">Segundo Invierno de la IA</td>
+                <td class="description">Colapso del mercado de sistemas expertos debido a su alto costo de mantenimiento y rigidez ante situaciones no programadas, generando una nueva reducción de fondos.</td>
+            </tr>
+            <tr>
+                <td class="period">1997 - 2011</td>
+                <td class="stage">Superación de hitos humanos y Machine Learning</td>
+                <td class="description">Cambio de enfoque hacia el aprendizaje automático (Machine Learning) basado en datos en lugar de reglas fijas. Deep Blue vence a Kasparov (1997) y Watson gana en Jeopardy! (2011).</td>
+            </tr>
+            <tr>
+                <td class="period">2012 - 2020</td>
+                <td class="stage">La revolución del Deep Learning</td>
+                <td class="description">El uso de GPUs y Big Data impulsa el Deep Learning. AlexNet revoluciona la visión por computadora (2012) y AlphaGo vence al campeón mundial de Go (2016).</td>
+            </tr>
+            <tr>
+                <td class="period">2020 - Presente</td>
+                <td class="stage">Era Generativa y Grandes Modelos de Lenguaje</td>
+                <td class="description">Basándose en la arquitectura Transformer (2017), surgen los Grandes Modelos de Lenguaje (LLM) y modelos de difusión para generación de texto, imagen, audio y video integrados globalmente.</td>
+            </tr>
+        </tbody>
+    </table>
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHFccmhiik/fPu0un1WxqbTBqH3yhx0Fw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHFccmhiik&#x2F;fPu0un1WxqbTBqH3yhx0Fw&#x2F;view?utm_content=DAHFccmhiik&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black White Minimalist Doodle Simple Presentation</a> de Lautaro Ustarroz
+<br>
+<section id="alan">
+    <h2>Alan Turing:</h2>
+    <p>El padre teórico  El matemático y lógico británico Alan Turing sentó las bases conceptuales de la informática
+ y la inteligencia de las máquinas antes de que existiera la tecnología para construirlas.Premisa fundamental (1950): Publicó 
+ el artículo científico Computing Machinery and Intelligence, donde planteó abiertamente la pregunta: ¿Pueden pensar las máquinas? 
+El Test de Turing: Diseñó una prueba conceptual para determinar si una máquina puede exhibir un comportamiento inteligente
+ indistinguible del de un ser humano.</p>
+</section>
+<img src="alan turing.jfif">
+
+</body>
+</html>
